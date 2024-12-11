@@ -1,5 +1,9 @@
 runtime: static
-handlers:
-  - url: /
-    static_files: index.html
-    upload: index.html
+- url: /api
+  static_files: api.html
+  mime_type: text/html
+  upload: api.html
+- url: /.*
+  static_files: index.html
+  mime_type: text/html
+  upload: index.html
