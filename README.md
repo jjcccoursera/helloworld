@@ -1,7 +1,7 @@
 Lists details of aircraft currently near a reference point defined by latitude, longitude and altitude, e.g. callsign, distance to reference, climbing rate.
 
 Available at:
-https://nearbyaircraft.ew.r.appspot.com
+https://nearbyaircraft.ew.r.appspot.com and
 https://kind-rock-0746c8d1e.4.azurestaticapps.net .
 
 Matthias Schäfer, Martin Strohmeier, Vincent Lenders, Ivan Martinovic and Matthias Wilhelm.
